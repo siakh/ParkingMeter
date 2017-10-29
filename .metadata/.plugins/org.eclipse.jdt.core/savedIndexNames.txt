@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/Users/kh/Documents/ParkingMeter02/.metadata/.plugins/org.eclipse.jdt.core
+241285415.index
+1318612525.index
+3665656385.index
